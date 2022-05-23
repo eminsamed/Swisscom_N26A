@@ -1,0 +1,10 @@
+#paragraph {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: silver;
+  border: 1px dashed black;
+  width: 90%;
+  height: 100px;
+  overflow: hidden;
+  margin-top: 10px;
+}
